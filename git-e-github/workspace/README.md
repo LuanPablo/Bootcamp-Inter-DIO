@@ -1,7 +1,7 @@
 # Livro de receitas :man_cook:
 
-### Olá!
+### Olá! Bem vindo ao meu livro de receitas. Esse repositório foi criado durante a aula de Git e Gthub do Bootcamp do inter. 
 
-- fkosjfoa
-- safasfas
-- asfasfafjh
+- Strognoff
+- Feijoada
+- Sopa de Ervilha
